@@ -3,7 +3,7 @@
 :star: Abra seu terminal o terminal e execute:
 
 ```bash
-yarn add francyleo
+$ apt get install francyleo
 ```
 
 ### Curiosidades sobre mim:
