@@ -12,8 +12,6 @@ $ apt get install francyleo
 
 :star: Eu sou apaixonado por física, astronomia e tecnologia
 
-:star: Estudante de Analise e Desenvolvimento de Sistemas
-
 :star: Autodidata
 
 #####
