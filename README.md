@@ -9,6 +9,7 @@ $ apt get install francyleo
 ### Curiosidades sobre mim:
 
 :star: Eu sou um desenvolvedor Front-end E Back-end!
+
 :star: Eu sou apaixonado por física, astronomia e tecnologia
 
 #####
